@@ -1,0 +1,11 @@
+=>Operators are the symbols that does a specific operations on the operands
+
+=>The operands whom the symbold perform the operation are the user definded data types like int, float, double, char, etc.
+
+=>But when we try to use those operators to perfom the operations user defined data types like objects we get an error
+
+=>If we have to do so, we will need to use a differnt function defined to do so
+
+=>The function can be defined as we define other different functions but there is an alternate to that as well and that concept in c++ we call as operator overloading
+
+=>Operator overloading is the method of adding more functionality to the operator to perform the  operations on the user defined data types like object
