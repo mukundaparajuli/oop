@@ -24,10 +24,10 @@ int main()
 }
 
 /*
-class is a user made data tyype
-composed of mainly two things: state or property and behaviour or method
-an object is an instance of the class
-access modifier determine the accessibility of the data members or state outside the class
-if the access modifier is private you cannot access the data member outside the class and
-if the access modifier is public you can access the data member outside the class as well
+->class is a user made data tyype
+->composed of mainly two things: state or property and behaviour or method
+->an object is an instance of the class
+->access modifier determine the accessibility of the data members or state outside the class
+->if the access modifier is private you cannot access the data member outside the class and
+->if the access modifier is public you can access the data member outside the class as well
 */

@@ -7,9 +7,11 @@ class Student
     char section;
 
 public:
-    // we can simply create a copy constructor by ourself like this
-    // we must pass the data by pass by reference method
-    // if we pass the object by pass by value method a copy of the object will be created and to create that copied object the same function is called which has a varaibale temp and an infinite loop will occur so we will get an error
+    //-> we can simply create a copy constructor by ourself like this
+    //-> we must pass the data by pass by reference method
+    //-> if we pass the object by pass by value method a copy of the object will be created and to 
+    // create that copied object the same function is
+    //  called which has a varaibale temp and an infinite loop will occur so we will get an error
     Student(Student &temp)
     {
         this->grade = temp.grade;
